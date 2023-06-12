@@ -1,8 +1,8 @@
-chemistrylab.lab package
+chemistrylab.lab
 ========================
 
 
-chemistrylab.lab.lab module
+chemistrylab.lab.lab
 ---------------------------
 
 .. automodule:: chemistrylab.lab.lab
@@ -10,7 +10,7 @@ chemistrylab.lab.lab module
    :undoc-members:
    :show-inheritance:
 
-chemistrylab.lab.manager module
+chemistrylab.lab.manager
 -------------------------------
 
 .. automodule:: chemistrylab.lab.manager
@@ -18,7 +18,7 @@ chemistrylab.lab.manager module
    :undoc-members:
    :show-inheritance:
 
-chemistrylab.lab.shelf module
+chemistrylab.lab.shelf
 -----------------------------
 
 .. automodule:: chemistrylab.lab.shelf
@@ -26,10 +26,3 @@ chemistrylab.lab.shelf module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: chemistrylab.lab
-   :members:
-   :undoc-members:
-   :show-inheritance:

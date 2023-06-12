@@ -1,5 +1,5 @@
-chemistrylab.vessel module
---------------------------
+chemistrylab.vessel
+-------------------
 
 .. automodule:: chemistrylab.vessel
    :members:

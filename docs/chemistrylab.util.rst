@@ -1,9 +1,9 @@
-chemistrylab.util package
-=========================
+chemistrylab.util
+==================
 
 
-chemistrylab.util.Visualization module
---------------------------------------
+chemistrylab.util.Visualization
+-------------------------------
 
 .. automodule:: chemistrylab.util.Visualization
    :members:
@@ -11,8 +11,8 @@ chemistrylab.util.Visualization module
    :show-inheritance:
 
 
-chemistrylab.util.reward module
--------------------------------
+chemistrylab.util.reward
+------------------------
 
 .. automodule:: chemistrylab.util.reward
    :members:
@@ -20,10 +20,4 @@ chemistrylab.util.reward module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
 
-.. automodule:: chemistrylab.util
-   :members:
-   :undoc-members:
-   :show-inheritance:

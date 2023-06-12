@@ -62,10 +62,10 @@ Our documentation is also available via github `here <https://github.com/chemgym
 
    Contact
    License
-
+   
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
 * :ref:`search`
+* :ref:`modindex`

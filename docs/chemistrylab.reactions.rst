@@ -1,27 +1,20 @@
-chemistrylab.reactions package
-==============================
+chemistrylab.reactions
+=======================
 
 
-chemistrylab.reactions.reaction module
---------------------------------------
+chemistrylab.reactions.reaction
+-------------------------------
 
 .. automodule:: chemistrylab.reactions.reaction
    :members:
    :undoc-members:
    :show-inheritance:
 
-chemistrylab.reactions.reaction\_info module
---------------------------------------------
+chemistrylab.reactions.reaction\_info
+-------------------------------------
 
 .. automodule:: chemistrylab.reactions.reaction_info
    :members:
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: chemistrylab.reactions
-   :members:
-   :undoc-members:
-   :show-inheritance:

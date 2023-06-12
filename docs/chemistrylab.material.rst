@@ -1,5 +1,5 @@
-chemistrylab.material module
-----------------------------
+chemistrylab.material
+---------------------
 
 .. automodule:: chemistrylab.material
    :members:

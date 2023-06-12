@@ -45,11 +45,3 @@ General Bench
    :show-inheritance:
 
 
-
-Module contents
----------------
-
-.. automodule:: chemistrylab.benches
-   :members:
-   :undoc-members:
-   :show-inheritance:

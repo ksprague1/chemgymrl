@@ -1,8 +1,8 @@
-chemistrylab.extract\_algorithms package
+chemistrylab.extract\_algorithms
 ========================================
 
 
-chemistrylab.extract\_algorithms.separate module
+chemistrylab.extract\_algorithms.separate
 ------------------------------------------------
 
 .. automodule:: chemistrylab.extract_algorithms.separate
@@ -10,10 +10,3 @@ chemistrylab.extract\_algorithms.separate module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: chemistrylab.extract_algorithms
-   :members:
-   :undoc-members:
-   :show-inheritance:
